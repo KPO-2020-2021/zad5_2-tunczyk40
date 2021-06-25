@@ -1,0 +1,4 @@
+/home/tunczyk40/Semestr2/zadanie6/zad5_2-tunczyk40/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
+/home/tunczyk40/Semestr2/zadanie6/zad5_2-tunczyk40/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/tunczyk40/Semestr2/zadanie6/zad5_2-tunczyk40/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/tunczyk40/Semestr2/zadanie6/zad5_2-tunczyk40/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
